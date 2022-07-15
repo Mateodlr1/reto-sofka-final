@@ -1,0 +1,27 @@
+Nave tripulada
+queroseno
+90 metros
+Tripulada Apolo
+Hidrogeno y oxigeno
+110 metros
+saturno V lanzador 
+queroseno
+90 metros
+atlas v lanzador
+solido e hidrogeno
+100 metros
+Explorer 1 No tripulado
+energia solar
+3 metros
+Galileo No tripulado
+Energia solar
+2 metros
+Gemini Tripulada
+Energia solar
+4 metros
+Mercury Tripulado
+hidrogeno y oxigeno
+3 metros
+Mariner x
+solido e hidrogeno
+4
